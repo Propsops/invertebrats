@@ -27,15 +27,21 @@ li{
     list-style: none;
 	
 	font: bold 14px verdana;
-	display: inline-block;
-    padding: 10px
+	
+    
 }
 .lii1{
-    margin-left: 10px;
+    position: absolute;
+    text-align: left;
+    left: 1%;
 }
 .lii2{
-    margin-left: 500px;
+    position: absolute;
+    text-align: center;
+    left: 48%;
 }
 .lii3{
-    margin-left: 500px;
+    position: absolute;
+    text-align: right;
+    right: 1%;
 }
