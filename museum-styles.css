@@ -67,13 +67,13 @@
 }
 
 .tipos{
-    margin: 0px;
+    
     font-family: cursive;
     padding-bottom: 500px;
 
 }
 .video{
-    margin: 0px;
+    
     font-family: cursive;
     padding-bottom: 500px;
 
@@ -85,8 +85,9 @@ h4{
     text-align: center;
 }
 .tiph{
-    position: absolute;
+    position: relative;
     top: 250px;
+    text-align: center;
 }
 .vidh{
     position: relative;
