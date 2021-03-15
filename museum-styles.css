@@ -1,6 +1,16 @@
+@font-face {
+        font-family: "Blue_Fonts_Sans";
+        src: url('Blue.ttf') format('truetype'),
+             url('Blue.otf') format('opentype');
+        
+  
+      
+
+}
 *{
     margin: 0px;
     padding: 0px;
+    font-family: sans-serif;
 }
 .titol{
     font-family: sans-serif;
@@ -54,3 +64,24 @@
     background-color: #4CAF50;
     color: white;
     border-radius: 30%;
+}
+
+.tipos{
+    font-family: cursive;
+    padding-bottom: 500px;
+
+}
+h4{
+    font-family: "Blue_Fonts_Sans";
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+.tiph{
+    position: absolute;
+    top: 250px;
+}
+.vidh{
+    position: absolute;
+    top: 250px;
+}
