@@ -14,34 +14,43 @@
 }
 .subtitol{
     text-align: center;
+    
 
 }
-.nav{
-    background: rgb(1000, 1000, 1000);
-	color: black;
-	font-family: Arial, Helvetica, sans-serif;
-    border: 1px solid;
-	
+
+.separador{
+    background: black;
+    padding-top: 5px;
+    padding-left: 100px;
+    margin-top: 5px;
 }
-li{
-    list-style: none;
-	
-	font: bold 14px verdana;
-	
-    
-}
-.lii1{
-    position: absolute;
-    text-align: left;
-    left: 1%;
-}
-.lii2{
+
+
+
+
+.nave {
+    padding-left: 48%;
+    border: none;
+    color: white;
     
     text-align: center;
-    left: 48%;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    
+    cursor: pointer;
 }
-.lii3{
-    position: absolute;
-    text-align: right;
-    right: 1%;
+
+.boto {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    padding: 40%;
+    border-radius: 30%;
 }
+
+.boto:hover {
+    background-color: #4CAF50;
+    color: white;
+    border-radius: 30%;
