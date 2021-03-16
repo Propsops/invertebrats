@@ -1,7 +1,8 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="museum-styles.css">
+    
+    <link rel="stylesheet" type="text/css" href="..\css\museum-styles.css">
     <meta name=”keywords” content=”museu, museum, molluscs, museum, molluscsmuseum, themoluscsmuseum, museu.tk” />
     <meta name="description" content=In this museum of moluscs you will find some information about moluscs>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -17,23 +18,33 @@
     <title>The Molluscs Museum</title>
 </head>
     <body>
-        
+        <script src="../js/script.js"></script>
         <div class="titol">
             <h1>The Molluscs Museum</h1>
         </div>
 
         <div class="nave">
-            <button class="boto" id="boto" type="button" onclick="alert('Hello world!')">Home</button>
+            <button class="boto" id="boto" type="button" onclick="chose()">Menu</button>
+            <div style="display: none;" class="nave-children" id="nave-children">
+                <a class="lin" href="index.html">Home</a>
+                <a class="lin" href="video_pag.html">Video</a>
+                <a class="lin" href="video_pag.html">Types</a>
+                
+            </div>
             
 
         </div>
+        
         <div class="separador"></div>
         
-        <div class="tipos">
-            <h4 class="tiph">Take a look about de diferents types of molluscs</h4>
-        </div>
-        <div class="video">
-            <h4 class="vidh">Enter here to watch a dynamic video of molluscs</h4>
+        
+        <div class="content" id="content">
+            <div class="tipos">
+                <h4 class="tiph">Take a look about de diferents types of molluscs</h4>
+            </div>
+            <div class="video">
+                <h4 class="vidh">Enter here to watch a dynamic video of molluscs</h4>
+            </div>
         </div>
             
 
