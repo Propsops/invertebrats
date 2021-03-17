@@ -53,18 +53,42 @@ display: inline-block;
 
 cursor: pointer;
 }
+
 .nave-children{
 display: none;
 color: black;
+background-color: green;
+
+
 
 }
 
-.lin{
+.lin1{
     display: block;
     background-color: deepskyblue;
     padding: 5px;
     margin: 5px;
     text-align: center;
+    position: relative;
+    top: 0px;
+}
+.lin2{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+}
+.lin3{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
 }
 
 
@@ -159,4 +183,10 @@ position: relative;
 top: 250px;
 text-align: center;
 color: white;
+}
+.fondo{
+    background: red;
+    padding: 30px;
+    position: absolute;
+    left: 45.5%;
 }
