@@ -16,7 +16,7 @@ function disable() {
 
 function enable() {
     console.log("enable act i el= " + el)
-    document.getElementById("nave-children").style.display = "inline-block";
+    document.getElementById("nave-children").style.display = "block";
     document.getElementById("boto").style.background="blue";
     document.getElementById("boto").style.color="white";
     
