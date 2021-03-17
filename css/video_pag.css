@@ -64,53 +64,58 @@ background-color: green;
 
 .lin1{
     display: block;
-    background-color: deepskyblue;
+    background-color: black;
     padding: 5px;
     margin: 5px;
     text-align: center;
     position: relative;
     top: 0px;
     text-decoration: none;
+    color: white;
 }
 .lin2{
     display: block;
-    background-color: deepskyblue;
+    background-color: black;
     padding: 5px;
     margin: 5px;
     text-align: center;
     position: relative;
     top: 1px;
     text-decoration: none;
+    color: white;
 }
 .lin3{
     display: block;
-    background-color: deepskyblue;
+    background-color: black;
     padding: 5px;
     margin: 5px;
     text-align: center;
     position: relative;
     top: 1px;
     text-decoration: none;
+    color: white;
 }
 .lin4{
     display: block;
-    background-color: deepskyblue;
+    background-color: black;
     padding: 5px;
     margin: 5px;
     text-align: center;
     position: relative;
     top: 1px;
     text-decoration: none;
+    color: white;
 }
 .lin5{
     display: block;
-    background-color: deepskyblue;
+    background-color: black;
     padding: 5px;
     margin: 5px;
     text-align: center;
     position: relative;
     top: 1px;
     text-decoration: none;
+    color: white;
 }
 
 
