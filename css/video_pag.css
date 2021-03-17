@@ -39,6 +39,7 @@ margin-top: 5px;
 
 
 .nave {
+font-size: 16px;
 margin-left: 47.5%;
 border: none;
 color: white;
@@ -46,22 +47,70 @@ color: white;
 text-align: center;
 text-decoration: none;
 display: inline-block;
-font-size: 16px;
+
 
 
 cursor: pointer;
 }
+
 .nave-children{
 display: none;
 color: black;
+background-color: green;
+
+
 
 }
 
-.lin{
+.lin1{
     display: block;
     background-color: deepskyblue;
     padding: 5px;
     margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 0px;
+    text-decoration: none;
+}
+.lin2{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+    text-decoration: none;
+}
+.lin3{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+    text-decoration: none;
+}
+.lin4{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+    text-decoration: none;
+}
+.lin5{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+    text-decoration: none;
 }
 
 
@@ -71,4 +120,12 @@ color: black;
 border: 2px solid #4CAF50;
 padding: 40%;
 border-radius: 30%;
+}
+
+
+.fondo{
+    background: red;
+    padding: 30px;
+    position: absolute;
+    left: 45.5%;
 }

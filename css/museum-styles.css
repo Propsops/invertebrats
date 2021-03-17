@@ -71,6 +71,7 @@ background-color: green;
     text-align: center;
     position: relative;
     top: 0px;
+    text-decoration: none;
 }
 .lin2{
     display: block;
@@ -80,6 +81,7 @@ background-color: green;
     text-align: center;
     position: relative;
     top: 1px;
+    text-decoration: none;
 }
 .lin3{
     display: block;
@@ -89,6 +91,27 @@ background-color: green;
     text-align: center;
     position: relative;
     top: 1px;
+    text-decoration: none;
+}
+.lin4{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+    text-decoration: none;
+}
+.lin5{
+    display: block;
+    background-color: deepskyblue;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+    text-decoration: none;
 }
 
 
