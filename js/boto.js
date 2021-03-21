@@ -1,4 +1,4 @@
-el = "Disable";
+el = "Enable";
 si = "Enable";
 no = "Disable";
 function chose() {
