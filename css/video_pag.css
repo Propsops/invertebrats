@@ -117,7 +117,17 @@ background-color: green;
     text-decoration: none;
     color: white;
 }
-
+.lin6{
+    display: block;
+    background-color: black;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    position: relative;
+    top: 1px;
+    text-decoration: none;
+    color: white;
+}
 
 .boto {
 background-color: white;
