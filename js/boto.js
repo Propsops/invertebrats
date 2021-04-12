@@ -157,9 +157,6 @@ shortcut = {
      shortcut.add("Meta+Alt+U",function(){
      
     }),
-    shortcut.add("Ctrl+C",function(){
-     
-    }),
     shortcut.add("Ctrl+Shift+I",function(){
      
     }),
